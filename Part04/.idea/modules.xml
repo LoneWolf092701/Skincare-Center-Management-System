@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_CW.iml" filepath="$PROJECT_DIR$/Java_CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part01(Only)/Part01(Only).iml" filepath="$PROJECT_DIR$/Part01(Only)/Part01(Only).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part02(Classes_Version_With_Part01)/Part02(Classes_Version_With_Part01).iml" filepath="$PROJECT_DIR$/Part02(Classes_Version_With_Part01)/Part02(Classes_Version_With_Part01).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+    </modules>
+  </component>
+</project>

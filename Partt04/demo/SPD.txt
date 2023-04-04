@@ -1,0 +1,27 @@
+-----------------------------------------------------------
+Queue01 have :
+
+KALA
+
+Passengers of Queue01 have :
+
+
+Customer Name :kala daran
+Customer's Vehicle no :2
+no of Liters Customer need :3
+-----------------------------------------------------------
+Queue02 have :
+
+Passengers of Queue02 have :
+-----------------------------------------------------------
+Queue03 have :
+
+Passengers of Queue03 have :
+-----------------------------------------------------------
+Queue04 have :
+
+Passengers of Queue04 have :
+-----------------------------------------------------------
+Queue05 have :
+
+Passengers of Queue05 have :
